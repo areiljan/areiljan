@@ -1,3 +1,3 @@
 ## 🦧
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=areiljan&show_icons=true&theme=radical)
+![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=areiljan&theme=github)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=areiljan&layout=compact)
